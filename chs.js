@@ -154,7 +154,7 @@ var cnItems = {
     'Laboratory': '实验室',
     'Invest in an establishment of a local stock exchange.': '投资建立当地证券交易所。',
     'increased prices for selling energy, as the industrial demand goes up;': '随着工业需求的增长，出售能源的价格提高；',
-    'for': '得到',
+    'for': '花费',
     'every second to light the': '每秒点亮',
     'Establish a study dedicated to electronic components and the possibilities they open.': '建立专门针对电子组件及其开放可能性的研究。',
     'Create a unified electrical network to which all water dams are connected.': '创建一个统一的电网，所有水坝都连接到该电网。',
